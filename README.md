@@ -1,1 +1,1 @@
-# Rethinking Instance-Invariant Disentanglement for Domain Adaptive Object Detection
+# Rethinking Domain-Invariant Disentanglement for Domain Adaptive Object Detection
