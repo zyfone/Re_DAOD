@@ -1,1 +1,1 @@
-# Rethinking  for Domain Adaptive Object Detection
+# Rethinking Adversarial Training for Domain Adaptive Object Detection
