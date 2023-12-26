@@ -1,1 +1,1 @@
-# Rethinking Adversarial Training for Domain Adaptive Object Detection
+# Revisiting Domain Adaptive Object Detection from Scale Perspective
